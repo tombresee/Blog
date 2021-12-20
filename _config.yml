@@ -19,12 +19,11 @@
 # b.  I am adding a url command ! 
 baseurl: "/Blog"
 url: "https://tombresee.github.io"
+# THIS ABOVE DID IN FACT SEEM TO HELP / WORK ! ! ! ! 
 
 
 
-
-
-title: MM
+title: Tom Bresee
 email: tbresee@umich.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
