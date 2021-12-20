@@ -24,7 +24,6 @@ url: "https://tombresee.github.io"
 
 
 
-
 title: Tom Bresee
 email: tbresee@umich.edu
 description: >- # this means to ignore newlines until "baseurl:"
@@ -104,7 +103,7 @@ footer:
       url: "https://twitter.com/realTomBresee"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/tombresee"
       # - label: "Instagram"
       #   icon: "fab fa-fw fa-instagram"
       #   url: "https://instagram.com/"
