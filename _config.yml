@@ -23,6 +23,8 @@ url: "https://tombresee.github.io"
 
 
 
+
+
 title: Tom Bresee
 email: tbresee@umich.edu
 description: >- # this means to ignore newlines until "baseurl:"
@@ -79,7 +81,7 @@ plugins:
 author:
   name   : "Tom Bresee"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "My awesome biography... now ?"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
