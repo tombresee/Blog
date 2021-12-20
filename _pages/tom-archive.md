@@ -1,1 +1,7 @@
-# did this work ? 
+---
+permalink: /tom/
+title: "Tom"
+---
+
+
+did this work ? 
