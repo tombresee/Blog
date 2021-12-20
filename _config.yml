@@ -64,7 +64,6 @@ include:
 
 
 
-
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
@@ -76,11 +75,10 @@ plugins:
 
 
 
-
 author:
   name   : "Tom Bresee"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography... now ?"
+  bio    : "Graduate Student Applied Data Science - University of Michigan"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
