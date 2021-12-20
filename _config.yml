@@ -13,6 +13,18 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+
+# a.  I am adding a baseurl command ! 
+# b.  I am adding a url command ! 
+baseurl: "/Blog"
+url: "https://tombresee.github.io"
+
+
+
+
+
+
+
 title: MM
 email: tbresee@umich.edu
 description: >- # this means to ignore newlines until "baseurl:"
@@ -24,6 +36,8 @@ github_username: tombresee
 minimal_mistakes_skin: default
 search: true
 
+
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
@@ -33,8 +47,10 @@ paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
+
 include:
   - _pages
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -48,6 +64,7 @@ include:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
@@ -57,8 +74,9 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+
 author:
-  name   : "First Lastname"
+  name   : "Tom Bresee"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
